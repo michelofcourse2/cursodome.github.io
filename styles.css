@@ -20,7 +20,7 @@ height: 100%;}
 .contenedor22{display: flex;
 width: 100%;
 height: 663px;
-background:url(/CURSODOME/imagen/Fondo2.jpg);
+background:url(Fondo2.jpg);
 align-items: center;
 justify-content: center;
 background-repeat: no-repeat;
@@ -131,7 +131,7 @@ padding: 20px;}
 height: 100%;
 display: flex;
 height: 100%;
-background-image: url(/CURSODOME/imagen/Fondo1.jpg);
+background-image: url(Fondo1.jpg);
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
