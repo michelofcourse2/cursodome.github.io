@@ -279,7 +279,7 @@ color:white;}
       left: 0px;
        right: 10px;
     }
-    .nav-enlace {
+    .nav-enlace {padding: 1%;
     font-size: 60%;}
     .nav-boton{display: inline-block
     ;padding: 2%; 
